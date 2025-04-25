@@ -21,6 +21,7 @@ Developed by: Alan Samuel Vedanayagam
 RegisterNumber:  212223040012
 */
 ```
+```
 /*#include <stdio.h>
 #define MAX 10
 void addFront(int *, int, int *, int *);
