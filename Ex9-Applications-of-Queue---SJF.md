@@ -74,6 +74,7 @@ return 0;
 }
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/13de62c7-4fbc-42e0-9683-530c9d037c2b)
 
 
 
